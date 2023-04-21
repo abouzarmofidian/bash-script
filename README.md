@@ -5,5 +5,6 @@
 +ch2: Basic Math
 +ch3: if statement
 +ch04: exit codes
++ch05: while loop
 
 ```
