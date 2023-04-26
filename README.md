@@ -6,5 +6,6 @@
 +ch3: if statement
 +ch04: exit codes
 +ch05: while loop
++ch06: universal update script
 
 ```
