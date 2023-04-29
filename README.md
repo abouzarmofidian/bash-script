@@ -7,5 +7,6 @@
 +ch04: exit codes
 +ch05: while loop
 +ch06: universal update script
++ch07: for loop
 
 ```
