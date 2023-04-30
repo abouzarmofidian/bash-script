@@ -1,0 +1,9 @@
+Copy script file to /usr/local/bin/ Directory
+
+chown root:root /usr/local/bin/script
+
+chmod 775 /usr/local/bin/script
+
+If directory doesn't exists:
+
+export PATH=/usr/local/bin:$PATH

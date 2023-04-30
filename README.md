@@ -8,5 +8,6 @@
 +ch05: while loop
 +ch06: universal update script
 +ch07: for loop
++ch08: where to store script
 
 ```
